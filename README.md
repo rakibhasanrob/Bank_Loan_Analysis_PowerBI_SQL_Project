@@ -28,6 +28,12 @@ The Overview page delves deeper into the data, offering visualizations and analy
 +	Total Loan Application by Home Ownership: A comparison of loan applications based on home ownership status, such as mortgage, rent, and own.
 ### Page 3: Details
 The details page shows all the details of the datasets in list view.
+
+### Tools Used:
+* MySQL
+* Microsoft Excel
+* Power BI
+
 ### Conclusion:
 This dashboard provides valuable insights into the bank's loan portfolio, allowing stakeholders to understand key metrics and trends. It enables data-driven decision-making by offering a clear and concise visualization of complex data sets.
 
