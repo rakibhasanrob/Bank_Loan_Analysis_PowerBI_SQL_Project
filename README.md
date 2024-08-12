@@ -1,4 +1,4 @@
-# Bank Loan Report Dashboard
+# Bank Loan Analysis Dashboard
 ### Introduction:
 This project involves the creation of a comprehensive dashboard to analyze bank loan data. The dashboard provides key insights into various aspects of the bank's loan portfolio, including loan applications, funding, interest rates, and more. It is divided into three main pages, "Summary" and "Overview," and "Details" each offering different levels of detail and analysis.
 ### Page 1: Summary
