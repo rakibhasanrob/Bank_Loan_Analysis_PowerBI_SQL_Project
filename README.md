@@ -37,6 +37,10 @@ The details page shows all the details of the datasets in list view.
 ### Conclusion:
 This dashboard provides valuable insights into the bank's loan portfolio, allowing stakeholders to understand key metrics and trends. It enables data-driven decision-making by offering a clear and concise visualization of complex data sets.
 
+### Interactive Dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiYjY2MjIzZWItZjIwZi00NWVjLTlmNDAtOWVkOTQ2ZTU4ZjRmIiwidCI6ImIyODc5ZDVhLTA0ZDItNDAwNy05NTc0LTQ1MTI3NWYwNmQ4MCIsImMiOjEwfQ%3D%3D
+
 ### Dashboard:
 
 
